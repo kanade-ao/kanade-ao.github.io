@@ -1,5 +1,5 @@
 ---
-title: uvによるDockerfile最適化
+title: uvのDockerfile最適化
 description: uvによるPython開発で、Dockerイメージを最適化するために、コマンドの詳細を分析する
 date: 2025-12-21 15:00:00+0900
 tags:
