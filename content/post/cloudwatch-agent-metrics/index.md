@@ -1,6 +1,6 @@
 ---
 title: CloudWatch AgentによるEC2メトリック収集
-description: メモリ使用率、ディスク使用率などのメトリック収集方法を紹介します
+description: メモリ使用率、ディスク使用率などのメトリック収集方法を紹介する
 date: 2026-01-09 10:00:00+0900
 tags:
   - aws
